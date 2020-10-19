@@ -19,6 +19,8 @@ Le serveur est à écouter sur l'adresse :
 192.168.33. + IP ENTREE AU MOMENT DE LA CREATION
 ```
 
+## Réglage pour Symfony
+
 Fichier à configurer :
 
 ```bash
